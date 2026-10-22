@@ -1,11 +1,12 @@
 [
   {
-    "id": "item_12345_0",
-    "title": "My Test Game",
-    "category": "PS2",
-    "size_bytes": 1548576000,
-    "size_display": "1.44 GB",
+    "id": "gns_t_124991473_2",
+    "title": "Spacegulls (v1.1)",
+    "category": "nes",
+    "file_name": "Spacegulls (v1.1).nes",
+    "size_bytes": 65552,
+    "size_display": "0.06 MB",
     "cover_url": "https://placehold.co/400x600/png",
-    "download_url": "https://game-cdn-proxy.YOUR-SUBDOMAIN.workers.dev
+    "download_url": "https://game-cdn-proxy.siddy1818.workers.dev/download?type=t&id=124991473&file_id=2"
   }
 ]
